@@ -7,10 +7,12 @@ This application has no ******** mapping for /error, so you are seeing this as a
 
 
 
-
 #EXTM3U
 
-
+#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_086iqqq00026/h_086iqqq00026pl.jpg",IQQQ-26 ศิษย์ชวนกระชับ ความลับของคุณครู
+https:\/\/t33.cdn2020.com\/video\/m3u8\/2026\/02\/27\/c2972cfc\/index.m3u8
+#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_086iqqq00026/h_086iqqq00026pl.jpg",IQQQ-26 ศิษย์ชวนกระชับ ความลับของคุณครู
+https:\/\/t33.cdn2020.com\/video\/m3u8\/2026\/03\/12\/add1f4c0\/index.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_086iqqq00026/h_086iqqq00026pl.jpg",IQQQ-26 ศิษย์ชวนกระชับ ความลับของคุณครู
 https://ezycdn.com/playlist-5k7a4kfr-FHD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/midv00266/midv00266pl.jpg",MIDV-266 ทริปสลับคู่ เล่นชู้กับแฟนเพื่อน
