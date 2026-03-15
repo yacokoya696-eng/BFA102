@@ -1,18 +1,4 @@
-Whitelabel Error Page
-
-This application has no ******** mapping for /error, so you are seeing this as a fallback. There was an unexpected error
-
-     (type=Not Found, status=404).
-███████▓█████▓▓╬╬╬╬╬╬╬╬▓███▓╬╬╬╬╬╬╬▓╬╬▓█ ████▓▓▓▓╬╬▓█████╬╬╬╬╬╬███▓╬╬╬╬╬╬╬╬╬╬╬╬╬█ ███▓▓▓▓╬╬╬╬╬╬▓██╬╬╬╬╬╬▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ ████▓▓▓╬╬╬╬╬╬╬▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ ███▓█▓███████▓▓███▓╬╬╬╬╬╬▓███████▓╬╬╬╬▓█ ████████████████▓█▓╬╬╬╬╬▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬█ ███▓▓▓▓▓▓▓╬╬▓▓▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ ████▓▓▓╬╬╬╬▓▓▓▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ ███▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ █████▓▓▓▓▓▓▓▓█ YOYO - TV ╬╬╬╬╬╬╬╬╬╬╬╬╬▓█ █████▓▓▓▓▓▓▓██▓▓▓█▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬██ █████▓▓▓▓▓████▓ YOYO - TV ╬╬╬╬╬╬╬╬╬╬╬╬██ ████▓█▓▓▓▓██▓▓▓▓██╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬██ ████▓▓███▓▓▓▓▓▓▓██▓╬╬╬╬╬╬╬╬╬╬╬╬█▓╬▓╬╬▓██ █████▓███▓▓▓▓▓▓▓▓████▓▓╬╬╬╬╬╬╬█▓╬╬╬╬╬▓██ █████▓▓█▓███▓▓▓████╬▓█▓▓╬╬╬▓▓█▓╬╬╬╬╬╬███ ██████▓██▓███████▓╬╬╬▓▓╬▓▓██▓╬╬╬╬╬╬╬▓███ ███████▓██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╬╬╬╬╬╬╬╬╬╬╬████ ███████▓▓██▓▓ YOYO - TV ╬╬╬╬╬╬╬╬╬▓████ ████████▓▓▓█████▓▓╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬▓█████ █████████▓▓▓█▓▓▓▓▓███▓╬╬╬╬╬╬╬╬╬╬╬▓██████ ██████████▓▓▓█▓▓▓╬▓██╬╬╬╬╬╬╬╬╬╬╬▓███████ ███████████▓▓█▓▓▓▓███▓╬╬╬╬╬╬╬╬╬▓████████ ██████████████▓▓▓███▓▓╬╬╬╬╬╬╬╬██████████ ███████████████▓▓▓██▓▓╬╬╬╬╬╬▓███████████
-
-
-
 #EXTM3U
-
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_086iqqq00026/h_086iqqq00026pl.jpg",IQQQ-26 ศิษย์ชวนกระชับ ความลับของคุณครู
-https:\/\/t33.cdn2020.com\/video\/m3u8\/2026\/02\/27\/c2972cfc\/index.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_086iqqq00026/h_086iqqq00026pl.jpg",IQQQ-26 ศิษย์ชวนกระชับ ความลับของคุณครู
-https:\/\/t33.cdn2020.com\/video\/m3u8\/2026\/03\/12\/add1f4c0\/index.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_086iqqq00026/h_086iqqq00026pl.jpg",IQQQ-26 ศิษย์ชวนกระชับ ความลับของคุณครู
 https://ezycdn.com/playlist-5k7a4kfr-FHD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/midv00266/midv00266pl.jpg",MIDV-266 ทริปสลับคู่ เล่นชู้กับแฟนเพื่อน
@@ -389,8 +375,6 @@ https://ezycdn.com/playlist-ib7uctks-SD.m3u8
 https://ezycdn.com/playlist-7bum9fm5-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/jbd00235/jbd00235pl.jpg",JBD-235 งานหยาบพากเพียรโรงเรียนวิปริต
 https://ezycdn.com/playlist-u6dfk3uc-SD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/1hawa00221/1hawa00221pl.jpg",HAWA-221 ดอกกำลังบานยุทธการตะล่อมเมีย
-https://ezycdn.com/playlist-hirpictn-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00708/ssis00708pl.jpg",SSIS-708 ขวัญกระเจิงบันเทิงพ่อเลี้ยง
 https://ezycdn.com/playlist-voihgpgs-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss645/1fsdss645pl.jpg",FSDSS-645 จานเด็ดต้องซ้ำเป๋าฮื้อฉ่ำสูตรฮ่องกง
@@ -1285,16 +1269,12 @@ https://ezycdn.com/playlist-l2hrbc1-SD.m3u8
 https://ezycdn.com/playlist-2rmgi0bk-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipz00689/ipz00689pl.jpg",IPZ-689 เมื่อแฟนผมเธอเป็นนางแบบ
 https://ezycdn.com/playlist-9h9oaoik-SD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss627/1fsdss627pl.jpg",FSDSS-627 ออกเดทสุดฟินกินตับแฟนสาวสุดสวย
-https://ezycdn.com/playlist-l2c9gvgb-FHD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss615/1fsdss615pl.jpg",FSDSS-615 พี่แฟนเปรี้ยวจี๊ดแอบซี๊ดเข็ดฟัน
 https://ezycdn.com/playlist-a3gdhkd-FHD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00724/ipx00724pl.jpg",IPX-724 ลับลวงสุดทีนเรซควีนโลกสวย
 https://ezycdn.com/playlist-v440qipe-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00867/ipx00867pl.jpg",IPX-867 งานดูดล้างท่อลับล่อครูคาเรน
 https://ezycdn.com/playlist-2bvfn8kh-SD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00627/ipx00627pl.jpg",IPX-627 อดีตต้มเค็มจัดเด็มคาราเบล
-https://ezycdn.com/playlist-kt5fis0d-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00497/ipx00497pl.jpg",IPX-497 สามเทพธิดาในฝัน สวรรค์ฮาเร็ม
 https://ezycdn.com/playlist-7mg3kjn1-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00497/ipx00497pl.jpg",IPX-497 เทพธิดาในฝัน สวรรค์ฮาเร็ม
@@ -1653,8 +1633,6 @@ https://ezycdn.com/playlist-idlpdj64-SD.m3u8
 https://ezycdn.com/playlist-ib054pag-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00728/rbd00728pl.jpg",RBD-728 เสี้ยนหนาม ขวางทางรัก
 https://ezycdn.com/playlist-cs9hg0tr-SD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00057/adn00057pl.jpg",ADN-057 ที่ฉันเสียตัวก็เพื่อสามี
-https://ezycdn.com/playlist-199goaij-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/shkd00546/shkd00546pl.jpg",SHKD-546 สามีสุดเงี่ยนจัดเต็มเมียตัวเอง
 https://ezycdn.com/playlist-qasaj0s6-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/jul00868/jul00868pl.jpg",JUL-868 หลอกไปแคมปิ้งจัดสวิงกิ้งยกแก๊ง
@@ -1767,8 +1745,6 @@ https://ezycdn.com/playlist-ke8lov2n-SD.m3u8
 https://ezycdn.com/playlist-ts55tfg-FHD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00951/ssis00951pl.jpg",SSIS-951 แฟนโวยวายเจ้านายดูเอ็น
 https://ezycdn.com/playlist-fddj74pn-SD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00413/ssis00413pl.jpg",SSIS-413 สวยซาดิสม์ ฟิดโครตจัด
-https://ezycdn.com/playlist-culm7h6f-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00280/ssis00280pl.jpg",SSIS-280 เอนทรานซ์นี้ ขอมีติวเตอร์เป็นแฟน
 https://ezycdn.com/playlist-6asg34p8-SD.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00129/ssis00129pl.jpg",SSIS-129 รีสตาร์ทคาดว่าจะเลิฟ
@@ -2733,374 +2709,10 @@ https://surrit.com/a07608f0-833d-4179-bbdf-7c92ba7b39b2/1280x720/video.m3u8
 https://surrit.com/7f30459c-aace-4612-b264-b9a20cac3a26/1280x720/video.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fourhoi.com/caribbeancompr-111116_004/cover-n.jpg",LAFBD-76
 https://surrit.com/98f5a0ea-20cd-456f-bfbd-dc3b8cc9cc94/1280x720/video.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/FSDSS-729-UNCENSORED-LEAK.jpg",FSDSS-729 Ami Tokita
-https://video.twimg.com/amplify_video/1778048671290167296/pl/hgTaBp75qD_p82Zy.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-682.jpg",MIDV-682 Arina Arata
-https://video.twimg.com/amplify_video/1783895435960307712/pl/KZCJvKSPbJ4PoUac.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-592.jpg",MIDV-592 Arina Arata
-https://video.twimg.com/amplify_video/1749120179739545601/pl/n24523Gv_Hvac0e0.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-530.jpg",MIDV-530 Arina Arata
-https://video.twimg.com/amplify_video/1777665866790010880/pl/cwlYpD-365uMySkv.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/JUQ-560.jpg",JUQ-560 Hikari Ninomiya
-https://video.twimg.com/amplify_video/1771498273708347392/pl/I9E_hnKEwG9c8ne8.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/atid-569/cover-n.jpg",ATID-569 Hikari Ninomiya
-https://video.twimg.com/amplify_video/1727894519314829312/pl/zaqlkZ5xf1knXE77.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/adn-473-uncensored-leak/cover-n.jpg",ADN-473 Hikari Ninomiya
-https://video.twimg.com/amplify_video/1718679069989249024/pl/syyXPyX90_jCiytP.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/stars-141-uncensored-leak/cover-n.jpg",STARS-141 Suzu Honjo
-https://video.twimg.com/amplify_video/1774377042626449408/pl/UG7Jy1EeVyiVFq2M.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.pornfhd.com/digital/video/1stars00527/1stars00527pl.jpg",STARS-527 Suzu Honjo
-https://video.twimg.com/amplify_video/1783127136787918848/pl/MmAgnAq-yrfbaOh1.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/ssis-338/cover-n.jpg",SSIS-338 Yua Mikami
-https://video.twimg.com/amplify_video/1777572156001353728/pl/yF4LjFqqXNawwQE-.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-644.jpg",SSIS-644 Minami Kojima
-https://video.twimg.com/amplify_video/1762401805764608001/pl/bJ9CTeT19rNpOKMV.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-714-UNCENSORED-LEAK.jpg",SSIS-714 Asano Kokoro
-https://video.twimg.com/amplify_video/1785233828266827776/pl/GKy117l1mm1woEGJ.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-839.jpg",SSIS-839  河北彩伽  Saika Kawakita
-https://video.twimg.com/amplify_video/1785266167722180608/pl/5R04pWjXooM49HDx.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-035.jpg",SONE-035  浅野こころ  Asano Kokoro
-https://video.twimg.com/amplify_video/1785467538773782528/pl/Cx22k8PVowQnRHSl.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPX-850.jpg",IPX-850  楓カレン  Karen Kaede
-https://video.twimg.com/amplify_video/1763507787173355520/pl/R-Pfsqic72bw_PRs.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-798.jpg",SSIS-798  星宮一花  Ichika Hoshimiya
-https://video.twimg.com/amplify_video/1785301740394516480/pl/YyeAzEII7bO3HJ1y.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-653.jpg",MIDV-653  新ありな  Arina Arata
-https://video.twimg.com/amplify_video/1794436244916551681/pl/hjVtHbnNNG0Umnpw.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://static.nJAV HD ONE.tv/images/b/6b/ipz-433/thumb_h.jpg",IPZ-433  希志あいの  Aino Kishi
-https://video.twimg.com/amplify_video/1794338036588634112/pl/h5dutQ1WyWRAOZoQ.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/38000/38428/preview.jpg",STARS-944 本庄鈴  Suzu Honjo
-https://video.twimg.com/amplify_video/1804959756152446977/pl/hxQNaWpS9KMe8ijb.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/midv-250-uncensored-leak/cover-n.jpg",MIDV-250  八木奈々  Nana Yagi
-https://video.twimg.com/amplify_video/1804946867215589376/pl/-vyZfC0Zp8RoIplX.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-267.jpg",MIDV-267  石川澪  Mio Ishikawa
-https://video.twimg.com/amplify_video/1804976295991758848/pl/sgKP6EHuNlG0JlYQ.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/sone-187-uncensored-leak/cover-n.jpg",SONE-187  黒島玲衣  Rei Kuroshima
-https://video.twimg.com/amplify_video/1804637059287580673/pl/FrR0iKItkpu71AW9.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img.aoxx69.net/data/adult-videos/ABF-061/cover/ABF-061.jpg",ABF-061  鈴村あいり  Airi Suzumura
-https://video.twimg.com/amplify_video/1804264650164281345/pl/HUps8oXJFmyYo1GV.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/44938/1.jpg",IPTD-999  柚木ティナ  Rio
-https://video.twimg.com/amplify_video/1803524685604282368/pl/drR1px5AIbAouLTq.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-855.jpg",SSIS-855  小島みなみ  Minami Kojima
-https://video.twimg.com/amplify_video/1803854359547031552/pl/CS3Uc1EtnQw7k7GL.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/stars-508/cover-n.jpg",STARS-508   古川いおり  Iori Kogawa
-https://video.twimg.com/amplify_video/1802786344453767168/pl/tYxQG4S_15megq4n.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/stars-894/cover-n.jpg",STARS-894  神木麗  Rei Kamiki
-https://video.twimg.com/amplify_video/1802776126659448832/pl/xSQhWmDJH0bTTU36.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img.aoxx69.net/data/adult-videos/PRED-478/cover/514776de-29e8-491e-bdee-d54cf8bbaf9a.jpg",PRED-478  楪カレン  Karen Yuzuriha
-https://video.twimg.com/amplify_video/1802772680279552000/pl/MAl10SOP2Y0V2IK6.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img.aoxx69.net/data/adult-videos/IPZZ-024/cover/f33a7a57-0b3b-42a4-8179-23ba87e05da5.jpg",IPZZ-024  相沢みなみ  Minami Aizawa
-https://video.twimg.com/amplify_video/1802770641721929728/pl/a2SVNGaK2aco_q6x.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPZ-041.jpg",IPZ-041  天海つばさ  Tsubasa Amami
-https://video.twimg.com/amplify_video/1802746970030698498/pl/qWuozm8fao0D4CxR.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPX-504.jpg",IPX-504  桃乃木香奈  Kana Momonogi
-https://video.twimg.com/amplify_video/1802436714343903232/pl/GUkXrH0yyKYmLGDC.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-728.jpg",SSIS-728  安達夕莉  Yuuri Adachi
-https://video.twimg.com/amplify_video/1802423299588182016/pl/OEC0rFhsK5xlGdjW.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img.aoxx69.net/data/adult-videos/WAAA-270/cover/b695872b-60f1-4759-9ccf-71c991e23ff2.jpg",WAAA-270  末広純  Jun Suehiro
-https://video.twimg.com/amplify_video/1802074482103717888/pl/RSnegFZinezjRC70.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-714.jpg",SSIS-714  浅野こころ  Kokoro Asano
-https://video.twimg.com/amplify_video/1802060635397644288/pl/qGHMA57OFRAaeSVe.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/stars-759/cover-n.jpg",STARS-759 本莊鈴 Suzu Honjo
-https://video.twimg.com/amplify_video/1782038196488118272/pl/L0LQp2HRaZz5X6Ui.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/ssis-520/cover-n.jpg",SSIS-520 つばさ舞 Mai Tsubasa
-https://video.twimg.com/amplify_video/1803459097238577152/pl/drL7jDE7fCig3Djk.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://gcs.rimg.com.tw/g4/d42/5e1/tokyohotno1/f/b6/68/22352481960552_965.jpg",SONE-027  河北彩花  Saika Kawakita
-https://video.twimg.com/amplify_video/1805684589437788161/pl/slciCGxHqN9AhSvv.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/EBWH-083.jpg",EBWH-083  七瀬アリス Alice Nanase
-https://video.twimg.com/amplify_video/1806388485403619328/pl/nbjlNLe0DMl54DXx.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img.aoxx69.net/data/adult-videos/MIMK-159/cover/MIMK-159.jpg",MIMK-159 五日市芽依 Mei Itsukaichi
-https://video.twimg.com/amplify_video/1799420972421787648/pl/AgeDDS622zpNMycT.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/stars-527/cover-n.jpg",STARS-527  本莊鈴  Suzu Honjo
-https://video.twimg.com/amplify_video/1806830682456375296/pl/ffCQGpB1kXP7c_3-.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img.aoxx69.net/data/adult-videos/MIAA-954/cover/MIAA-954.jpg",MIAA-954  大槻ひびき  Hibiki Otsuki
-https://video.twimg.com/amplify_video/1807167380680015872/pl/a1muJOwTdYTU07_J.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIAB-173-UNCENSORED-LEAK.jpg",MIAB-173  森日向子  Hinako Mori
-https://video.twimg.com/amplify_video/1807142254760382464/pl/XnEjbxwO_jL7DQaX.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-944.jpg",SSIS-944   黒島玲衣  Rei Kuroshima
-https://video.twimg.com/amplify_video/1807512475765448704/pl/7EqcDO-0g9jnlKN7.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MDYD-811-UNCENSORED-LEAK.jpg",MDYD-811  西野翔  Sho Nishino
-https://video.twimg.com/amplify_video/1807511753812742144/pl/t0XnbUn47iqtPbV8.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://avkuy.com/wp-content/uploads/2023/12/MIDV-552.jpg",MIDV-552  八木奈々  Nana Yagi
-https://video.twimg.com/amplify_video/1807865375427809280/pl/VGGQhCwBMvyrjVha.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-670-UNCENSORED-LEAK.jpg",MIDV-670  石川澪  Mio Ishikawa
-https://video.twimg.com/amplify_video/1808208696016547840/pl/iny3ilQ2FeQ6RTm9.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/gdrd-006/cover-n.jpg",GDRD-006  新井リマ  Rima Arai
-https://video.twimg.com/amplify_video/1808237268970491911/pl/K8XGLXPBtrbxmOlZ.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://avkuy.com/wp-content/uploads/2024/02/MIDV-623.jpg",MIDV-623   新ありな Arina Arata
-https://video.twimg.com/amplify_video/1808217196310511616/pl/OHBUYq86wS90dgvd.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/fsdss-615/cover-n.jpg",FSDSS-615  田中レモン  Lemon Tanaka
-https://video.twimg.com/amplify_video/1808251426423861248/pl/R_7vwrClHFJF4_G8.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-252.jpg",MIDV-252 新ありな  Arina Arata
-https://video.twimg.com/amplify_video/1808226001089929216/pl/YoszpnIB19HWpR6b.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPX-484.jpg",IPX-484  楓可憐  Karen Kaede
-https://video.twimg.com/amplify_video/1808256106986176512/pl/iN_SaEWnvUxHegy7.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPZZ-008.jpg",IPZZ-008  桃乃木かな  Kana Momonogi
-https://video.twimg.com/amplify_video/1808257350219841536/pl/mFWiWma2sIKBZ2WF.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/midv-354-uncensored-leak/cover-n.jpg",MIDV-354  新ありな  Arina Arata
-https://video.twimg.com/amplify_video/1808231314409377798/pl/k33bXNet2neicawV.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/abp-159/cover-n.jpg",ABP-159  桃谷エリカ  Erika Momotani
-https://video.twimg.com/amplify_video/1808605377212100608/pl/wMxAhAAEtgEfJ83o.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/ipx-565/cover-n.jpg",IPX-565  桃乃木香奈  Kana Momonogi
-https://video.twimg.com/amplify_video/1808583930846851074/pl/WkGud_l3_RtaE4TZ.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/madm-185/cover-n.jpg",MADM-185 橘メアリー Meari Tachibana
-https://video.twimg.com/amplify_video/1808815356590395392/pl/FWzo_CFcgh5RP4Kg.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/ipx-676/cover-n.jpg",IPX-676   天海つばさ  Tsubasa Amami
-https://video.twimg.com/amplify_video/1809111677474123779/pl/7EaRIp3xy5JwmLKE.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEgg.net/wp-content/uploads/2024/07/midv-771.jpg",MIDV-771 葵いぶき Ibuki Aoi
-https://video.twimg.com/amplify_video/1809117313167470594/pl/ZqYRp4ewvV9fGKxy.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://avkuy.com/wp-content/uploads/2024/05/PRED-678.jpg",PRED-678 白峰ミウ  Miu Shiramine
-https://video.twimg.com/amplify_video/1809119322947600384/pl/y2-jollX5bvHP8A9.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/dldss-314/cover-n.jpg",DLDSS-314 美乃すずめ Suzume Mino
-https://video.twimg.com/amplify_video/1809151781324128257/pl/u63VsjIWzRfQkbNn.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-372.jpg",MIDV-372  宮下玲奈  Rena Miyashita
-https://video.twimg.com/amplify_video/1806853968368119808/pl/enXj0fJzTGDv51YG.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/stars-104/cover-n.jpg",STARS-104  小倉由菜  Yuna Ogura
-https://video.twimg.com/amplify_video/1806029149259051009/pl/08kFqH-upuNy-4gZ.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SNIS-712.jpg",SNIS-712  宇都宮紫苑  Shion Utsunomiya
-https://video.twimg.com/amplify_video/1805720417392332800/pl/1PhO0qY8xnm-XnSM.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDE-779.jpg",MIDE-779  藍芽みずき  Mizuki Aiga
-https://video.twimg.com/amplify_video/1805678343364190208/pl/dX58AnsEukJKovAo.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/mide-921/cover-n.jpg",MIDE-921  藍芽みずき  Mizuki Aiga
-https://video.twimg.com/amplify_video/1805316823245623296/pl/1W-3e1tCwY9nrQJl.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://imagerls.com/wp-content/uploads/2024/06/sone228pl.jpg",SONE-228 河北彩花 Saika Kawakita
-https://video.twimg.com/amplify_video/1809129992443314176/pl/IJBLcGCmrrGQbBG5.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.JAV HD ONEsts.com/wp-content/uploads/2024/06/1mtall121pl.jpg",MTALL-121 五日市芽依 Itsukaichi Mei
-https://video.twimg.com/amplify_video/1809274860008534018/pl/qF-7i4OpkdKjdsBW.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/sone-205-uncensored-leak/cover-n.jpg",SONE-205  未歩なな  Nana Miho
-https://video.twimg.com/amplify_video/1809277126828281858/pl/Ds_v9nOXI7rT3eZW.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/62027/1.jpg",DASS-424 森沢かな  Morisawa Kana
-https://video.twimg.com/amplify_video/1809308267698348033/pl/FVmUBK9sx5Bu_MO5.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/midv-699/cover-n.jpg",MIDV-699  石川澪  Mio Ishikawa
-https://video.twimg.com/amplify_video/1809329452763025409/pl/TVqxqa_uHxA91x89.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/8000/8440/preview.jpg",CWP-120  大橋未久   Miku Ohashi
-https://video.twimg.com/amplify_video/1809342682030014464/pl/cxjIoSpQleOES6r5.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://static.nJAV HD ONE.tv/images/3/93/sone-099/thumb_h.jpg",SONE-099  つばさ舞  Tsubasa Mai
-https://video.twimg.com/amplify_video/1809364576573747203/pl/GJRCWclvX1MLz27r.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/mdyd-977/cover-n.jpg",MDYD-977  本田莉子  Riko Honda
-https://video.twimg.com/amplify_video/1809373711272931331/pl/SWP4nG6d6hjiq8rL.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/60168/1.jpg",START-036  本庄鈴  Suzu Honjo
-https://video.twimg.com/amplify_video/1809737306313543680/pl/R_2-ev65w1W9rCGs.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/58786/1.jpg",SONE-178   坂道みる  Miru Sakamichi
-https://video.twimg.com/amplify_video/1809706498446020609/pl/lE10rDTAGhxY_6wM.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-735.jpg",MIDV-735  石川澪  Mio Ishikawa
-https://video.twimg.com/amplify_video/1809847024189063168/pl/qBhH9Ytjyebd66wC.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/fsdss-714/cover-n.jpg",FSDSS-714  深田えいみ  Eimi Fukada
-https://video.twimg.com/amplify_video/1809908613206388736/pl/rSNvgSBn-E-8VRbo.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/pfes-057/cover-n.jpg",PFES-057 佐野ゆま  Yuma Sano
-https://video.twimg.com/amplify_video/1810597880920453120/pl/iXHfBpuH882sMKhD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/fsdss-684/cover-n.jpg",FSDSS-684  時田亜美  Ami Tokita
-https://video.twimg.com/amplify_video/1757797025314410496/pl/3_lgSk3-BCyzSeG1.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/pred-670/cover-n.jpg",PRED-670  山岸あや花  Yamagishi-Aika
-https://video.twimg.com/amplify_video/1810736300401553408/pl/cV76uqDs6WyHCbST.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/dass-299-uncensored-leak/cover-n.jpg",DASS-299   美谷朱里   Akari Mitani
-https://video.twimg.com/amplify_video/1810909650201567232/pl/aQqt98HNKZzF0xa5.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/ssis-242/cover-n.jpg",SSIS-242   葵司   Tsukasa Aoi
-https://video.twimg.com/amplify_video/1810990046930972672/pl/myI71l4YjDPGRcgx.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/YUJ-019.jpg",YUJ-019   安位薫   Kaoru Yasui
-https://video.twimg.com/amplify_video/1811265401235419136/pl/qaM-68cn98diFpXw.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEgg.net/wp-content/uploads/2024/07/sone-249.jpg",SONE-249   つばさ舞   Tsubasa Mai
-https://video.twimg.com/amplify_video/1811267627634864128/pl/dgy7i7PDaLGVhkkK.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-560.jpg",SSIS-560    河北彩花    Kawakita Saika
-https://video.twimg.com/amplify_video/1811632649796046848/pl/0IPTefRBtE8gpJYx.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-841.jpg",SSIS-841    山手梨愛    Ria Yamate
-https://video.twimg.com/amplify_video/1811636971669725185/pl/q0HOfLxUaDG8i2Ht.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/59835/1.jpg",SONE-200   河北彩花    Kawakita Saika
-https://video.twimg.com/amplify_video/1811692569186680832/pl/BbcHBRuz2D9z-Gs6.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/52818/1.jpg",SONE-051  小島みなみ  Minami Kojima
-https://video.twimg.com/amplify_video/1812718869011689472/pl/5DLgRgsayRQ1tfbA.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/mide-560/cover-n.jpg",MIDE-560  高橋しょう子  Shoko Takahashi
-https://video.twimg.com/amplify_video/1784594114627162112/pl/W3dPX54Rp9pM9Qj-.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/47737/1.jpg",CAWD-590  設楽ゆうひ  Yuhi Shitara
-https://video.twimg.com/amplify_video/1784185970138742784/pl/8Pd3MjVgskhmTYeh.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/56237/1.jpg",START-012 青空ひかり  Hikari Aozora
-https://video.twimg.com/amplify_video/1812480336472813568/pl/c_OKZZ2Xzt6Mbsp2.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/32414/1.jpg",SSIS-698  三上悠亞  相沢みなみ  新ありな Yua Mikami Minami Aizawa Arina Arata
-https://video.twimg.com/amplify_video/1812858383738773505/pl/4rkIHiJegPXEEHXa.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img.aoxx69.net/data/adult-videos/FSDSS-683/cover/FSDSS-683.jpg",FSDSS-683  時田亜美  Ami Tokita
-https://video.twimg.com/amplify_video/1808725161543356416/pl/iXhOGfrd-JOBPmJt.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://avkuy.com/wp-content/uploads/2024/01/FSDSS-727.jpg",FSDSS-727  永野鈴  Suzu Nagano
-https://video.twimg.com/amplify_video/1754498313414651904/pl/K0UeUE_UMQ9-QPel.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/FSDSS-741.jpg",FSDSS-741  永野鈴  Suzu Nagano
-https://video.twimg.com/amplify_video/1786459750751973377/pl/-ON6Mu7JR_wHMjKH.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-224.jpg",SONE-224  倉木華  Kuraki Hana
-https://video.twimg.com/amplify_video/1814523094377373701/pl/DDR5B7HSa3MvveHr.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://gcs.rimg.com.tw/g1/f/ff/89/22415250219913_291.jpg",SONE-080  浅野こころ  Kokoro Asano
-https://video.twimg.com/amplify_video/1809672907813187585/pl/HkVkcRbinCwSVd8W.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/fsdss-735/cover-n.jpg",FSDSS-735 蜜美杏 An Mitsumi
-https://video.twimg.com/amplify_video/1778714161796800512/pl/_I1Hb0ZPcJL1Lz1q.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/hez-684/cover-n.jpg",HEZ-684  小那海あや  Aya Onami
-https://video.twimg.com/amplify_video/1813051773130842112/pl/1xw79A2jdT4K0yGd.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/ngod-214/cover-n.jpg",NGOD-214  小那海あや  Aya Onami
-https://video.twimg.com/amplify_video/1814684393732214784/pl/waYNLUQwChVitYZh.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/b/ab/miaa-937/thumb_h.jpg",MIAA-937  松本いちか  Ichika Matsumoto
-https://video.twimg.com/amplify_video/1782370817436975104/pl/UJwGSKnsTUGbOcjS.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://www.av-th.net/wp-content/uploads/2022/05/ipx819pl.jpg",IPX-819  相沢みなみ  Minami Aizawa
-https://video.twimg.com/amplify_video/1782170989809610752/pl/RCxuqHOaEFeIh83p.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://imageJAV HD ONE.com/wp-content/uploads/stars-258.jpg",STARS-258 小倉由菜  Yuna Ogura
-https://video.twimg.com/amplify_video/1782361582233874432/pl/wEhLLnnX354lvLqd.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-186.jpg",MIDV-186  石川澪  Mio Ishikawa
-https://video.twimg.com/amplify_video/1782333713034125313/pl/3mkR2Bbb4XUJdqpJ.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/63968/1.jpg",START-097  本庄鈴   Suzu Honjo
-https://video.twimg.com/amplify_video/1818507924194365440/pl/-9R1C3TXqH5rQ3G-.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/251000/251959/preview_360p.mp4.jpg",SONE-240  白上咲花  Shirakami Emika
-https://video.twimg.com/amplify_video/1814541388492775428/pl/BDUWGTTH53y7OtSk.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/ABW-013.jpg",ABW-013  鈴村あいり  Airi Suzumura
-https://video.twimg.com/amplify_video/1822648064135380992/pl/E54YDNR_eiO_TRN9.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/FSDSS-549.jpg",FSDSS-549  時田亜美  Ami Tokita
 https://surrit.com/e34379f5-5af4-481d-975c-b59af76adf80/1280x720/video.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/fsdss-729/cover-n.jpg",FSDSS-729  時田亜美  Ami Tokita
-https://video.twimg.com/amplify_video/1786733769577177088/pl/nb_Re3GKdeTDdAHj.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/43000/43113/preview.jpg",ABF-125  涼森れむ  Remu Suzumori
-https://video-ft.twimg.com/amplify_video/1825913823670448138/pl/YxI6tqpmApyytJNx.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIAB-009.jpg",MIAB-009  森日向子  Hinako Mori
-https://video.twimg.com/amplify_video/1796024180963741697/pl/gD7Y3iuEsY_Utss1.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://JAV HD ONEtiful.com/media/videos/tmb/65393/1.jpg",MIDV-818  新ありな  Arina Arata
-https://video.twimg.com/amplify_video/1829562024659193856/pl/-AS8OiI80wf1Oauw.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/7/87/sone-235-uncensored-leaked/thumb_h.jpg",SONE-235  浅野こころ  Kokoro Asano
-https://video.twimg.com/amplify_video/1828888594536095744/pl/mbyhgb0QGyW9AEmG.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://avjapanhdx.com/wp-content/uploads/2024/08/SONE-302_avjapanhdx.jpg",SONE-302  中森心々奈  Nakamori Kokona
-https://video.twimg.com/amplify_video/1825963967132684288/pl/mWvu2uboaApl7ZB8.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/d/ed/sone-264/thumb_h.jpg",SONE-264  架乃ゆら  Yura Kano
-https://video.twimg.com/amplify_video/1828808543589294080/pl/SbdrsrDmpOh6DI8W.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.JAV HD ONEsts.com/wp-content/uploads/2018/08/1star405pl.jpg",STAR-405  古川いおり  Iori Furukawa
-https://video.twimg.com/amplify_video/1829916228078411777/pl/CPc-VfBW1MW5Vqra.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/CJOD-421-UNCENSORED-LEAK.jpg",CJOD-421  松本いちか  Ichika Matsumoto
-https://video.twimg.com/amplify_video/1829289418370256896/pl/vD-cozdW4L1l8sRX.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/8/28/star-502/thumb_h.jpg",STAR-502  古川いおり  Iori Furukawa
-https://video.twimg.com/amplify_video/1830414367336144896/pl/PD-ClYWxOCDxQJxG.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SNIS-170-UNCENSORED-LEAK.jpg",SNIS-170  藍沢潤  Jun Aizawa
-https://video.twimg.com/amplify_video/1830356062316224518/pl/smaayng20JVP5TO8.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/HND-084.jpg",HND-084  大槻ひびき  Hibiki Ōtsuki
-https://video.twimg.com/amplify_video/1829598150773952512/pl/YSW69JIhM3cVidLl.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.cx/images/SONE-075-UNCENSORED-LEAK.jpg",SONE-075  宇野みれい  Mirei Shinonome
-https://video.twimg.com/amplify_video/1817160801083392000/pl/U7L2YgaZQ8NAzSbN.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/DASS-203.jpg",DASS-203  さつき芽衣  Mei Satsuki
-https://video.twimg.com/amplify_video/1828521383178985473/pl/FM9rqdBl_Luj6Eb6.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/44000/44121/preview.jpg",DASS-460  五日市芽依  Mei Itsukaichi
-https://video.twimg.com/amplify_video/1830676689237479425/pl/HanCvXdnMfMoUdWX.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/44000/44101/preview.jpg",SONE-269  安達夕莉  Yuuri Adachi  宇野みれい  Mirei Shinonome
-https://video.twimg.com/amplify_video/1830680885689012224/pl/ChIWyO3JiePjYdpn.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/9/59/fsdss-856/thumb_h.jpg",FSDSS-856  八蜜凛   Rin Hachimitsu
-https://video.twimg.com/amplify_video/1830692656541761536/pl/A8OkZqrl9VN5Ujl1.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/CJOD-149.jpg",CJOD-149  篠田ゆう  Yuu Shinoda  佐々波綾  Aya Sazanami
-https://video.twimg.com/amplify_video/1828493061791379456/pl/GCBDcXsQe72hNaL4.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-468.jpg",SSIS-468  河北彩花  Saika Kawakita
-https://video.twimg.com/amplify_video/1828487079535226880/pl/MxezARwDNbOZxjv_.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img2.JAV HD ONEmost.com/file_image/MIDV-805-UNCENSORED-LEAK.jpg",MIDV-805  石川澪  Mio Ishikawa
-https://video.twimg.com/amplify_video/1828372291736023040/pl/ZZd7mo0FiXCFebwj.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.cx/images/STARS-870.jpg",STARS-870  本庄鈴  Suzu Honjo
-https://video.twimg.com/amplify_video/1828482515297763328/pl/qoL_EE9wIulmF8N9.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/a/6a/midv-808/thumb_h.jpg",MIDV-808  八木奈々  Nana Yagi
-https://video.twimg.com/amplify_video/1828226639945256960/pl/JKltf0CQdzvzVesb.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/CAWD-688-UNCENSORED-LEAK.jpg",CAWD-688  伊藤舞雪  Ito Mayuki
-https://video.twimg.com/amplify_video/1830722717361827843/pl/c7_5-XRp3BiH-q5k.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fivetiu.com/sone-316-uncensored-leak/cover-n.jpg",SONE-316  安達夕莉  Yuuri Adachi
-https://video.twimg.com/amplify_video/1828223220333293568/pl/JxzX08WXFbMuMDyR.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/0/30/sone-265/thumb_h.jpg",SONE-265  鷲尾めい  Mei Washio
-https://video.twimg.com/amplify_video/1828464285061652480/pl/gMdvZeatXSL7bRU5.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/ABP-109-Uncensored-Leak.jpg",ABP-109   鈴村あいり  Airi Suzumura
-https://video.twimg.com/amplify_video/1830930287762583554/pl/e82QAdC9sjndYyYk.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/6/d6/start-135/thumb_h.jpg",START-135  小湊よつ葉  Kominato Yotsuha
-https://video.twimg.com/amplify_video/1829508666963243008/pl/bO80kPLuPuq5aYRn.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img2.JAV HD ONEmost.com/file_image/START-112.jpg",START-112  恋渕ももな  Koibuchi Momona
-https://video.twimg.com/amplify_video/1829508666749493248/pl/w-rl452TdUjwW3Wi.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/9/c9/fsdss-812/thumb_h.jpg",FSDSS-812  永野鈴  Nagano Suzu
-https://video.twimg.com/amplify_video/1828227631755509762/pl/7upKz_wyINrLzIgk.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-317-UNCENSORED-LEAK.jpg",SONE-317  浅野こころ  Kokoro Asano
-https://video.twimg.com/amplify_video/1833366335897931777/pl/dw3aIioNxLorPKEx.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-318.jpg",SONE-318  本郷愛  Hongo Ai
-https://video.twimg.com/amplify_video/1833368915734630400/pl/ZZLxxIuIeo8553VK.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/4/54/sone-304/thumb_h.jpg",SONE-304  倉木華  Kuraki Hana
-https://video.twimg.com/amplify_video/1833290870801776640/pl/4-eFsCLDXphOvnEF.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00323/sone00323pl.jpg",SONE-323  白上咲花  Shirakami Emika
-https://video.twimg.com/amplify_video/1833438610907090944/pl/oJBS5yIpT8hgr0f4.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.nJAV HD ONE.tv/images/d/4d/sone-427/thumb_h.jpg",SONE-427  未歩なな  Miho Nana
-https://video.twimg.com/amplify_video/1833507384066727936/pl/ejxyb9D-yohFPbsj.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SHF-004.jpg",SHF-004   橘ひなた  Tachibana Hinata
-https://video.twimg.com/amplify_video/1835305763780374528/pl/5YGBPuk6nCxZR9xV.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/ABW-220.jpg",ABW-220  涼森玲夢  Remu Suzumori
-https://video.twimg.com/amplify_video/1840732660194279424/pl/r1DvUofKwAAnwj4O.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://assets-cdn.jable.tv/contents/videos_screenshots/44000/44987/preview.jpg",SONE-366  浅野こころ  Kokoro Asano
-https://video.twimg.com/amplify_video/1839744173378834433/pl/5M3K6LTnHWjJPRcn.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.pornfhd.com/mono/movie/adult/ssni661/ssni661pl.jpg",SSNI-661  小島みなみ  Minami Kojima
-https://video.twimg.com/amplify_video/1841110463787991045/pl/YdaQAj1PfBrhj5CW.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.cx/images/SSNI-718.jpg",SSNI-718  小島みなみ  Minami Kojima
-https://video.twimg.com/amplify_video/1841105898434965506/pl/0qACOab-F3CxuNY7.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSNI-856.jpg",SSNI-856  小島みなみ  Minami Kojima
-https://video.twimg.com/amplify_video/1841101723575672832/pl/-IBYWVgylRUgwm1h.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img.aoxx69.net/data/adult-videos/IPX-589/cover/db6c3267-db39-4713-823c-0e5172c590ab.jpg",IPX-589  白峰ミウ  Miu Shiramine
-https://video.twimg.com/amplify_video/1838069700191719426/pl/avwYL_qMcROU6qkG.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.avfever.net/images/6/56/adn-405/thumb_h.jpg",ADN-405  白峰ミウ  Miu Shiramine
-https://video.twimg.com/amplify_video/1838027673701953536/pl/Qcsl9ZsHbdCJtK7U.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPX-605-Uncensored-Leak.jpg",IPX-605   白峰ミウ  Miu Shiramine
-https://video.twimg.com/amplify_video/1838030913860407296/pl/AAjHFhjnGrKEcJKl.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPX-826.jpg",IPX-826  白峰ミウ  Miu Shiramine
-https://video.twimg.com/amplify_video/1837913927595765760/pl/dK0aaPNzzhVxAy6b.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPX-806.jpg",IPX-806  白峰ミウ  Miu Shiramine
-https://video.twimg.com/amplify_video/1837908572539179008/pl/VFhSQ19KXePzYTuM.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/PPPE-119.jpg",PPPE-119   楪カレン  Karen Yuzuriha
-https://video.twimg.com/amplify_video/1837168574202310657/pl/F6OlHNPKVh4-Oxpd.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://iili.io/dKOonMF.jpg",⭐⭐⭐
-https://video.twimg.com/amplify_video/1837165782578434060/pl/21hdVbZcY3LlS5IX.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.avfever.net/images/b/0b/snis-252/thumb_h.jpg",SNIS-252  由愛可奈  Kana Yume
-https://video.twimg.com/amplify_video/1836607385969774592/pl/7JSvwSu6ZWC5TXLa.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.avfever.net/images/9/99/sone-100/thumb_h.jpg",SONE-100  小島みなみ  Minami Kojima
-https://video.twimg.com/amplify_video/1837031805196685313/pl/z0g4N1SDsopBb-jW.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.pornfhd.com/digital/video/hnd00653/hnd00653pl.jpg",HND-653  二宮ひかり  Hikari Ninomiya
 https://surrit.com/b074a295-6dfe-4fdc-8d76-dd342429be3e/playlist.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgnOlXnvjR5087awt5NI645ddYBhQ6BVgRpg&s",MIDV-850  新ありな  Arata Arina
-https://video.twimg.com/amplify_video/1839728939075530752/pl/iRvcp0FPJWmjYw5g.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRe27cgfuWhopyIJHyKpCdx0CJ4PK3qO1o1A&s",START-166  本庄鈴  Suzu Honjo
-https://video.twimg.com/amplify_video/1845345508782407688/pl/BMjnEbiXyr2hMf8-.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.avfever.net/images/4/d4/midv-639-uncensored-leaked/thumb_h.jpg",MIDV-639  石川澪  Mio Ishikawa
-https://video.twimg.com/amplify_video/1845301218932858890/pl/QN-4JPwTrVnvvGYg.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.avfever.net/images/8/78/sone-351/thumb_h.jpg",SONE-351  中森心々奈  Kokona Nakamori
-https://video.twimg.com/amplify_video/1845286778309074944/pl/aUfMq76qbFIJclOE.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://172-104-181-237.ip.linodeusercontent.com/wp-content/uploads/2021/12/MIDE-906.jpg",MIDE-906  藍芽みずき  Mizuki Aiga
-https://video.twimg.com/amplify_video/1817886541051482112/pl/XZdvRurBsr9Uy9Kw.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.avfever.net/images/c/0c/hmn-604/thumb_h.jpg",HMN-604  美谷朱音   Akane Mitani
-https://video.twimg.com/amplify_video/1845259583914131472/pl/agPWhll9NpunxlEj.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/DASS-457.jpg",DASS-457  新井リマ  Rima Arai
-https://video.twimg.com/amplify_video/1845150067965014023/pl/yC1ZwRMyTQoBiPNW.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/mono/movie/midv871/midv871pl.jpg",MIDV-843  小野六花   Rikka Ono
-https://video.twimg.com/amplify_video/1845146746608893956/pl/EV1uE9epH56qv4aO.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/MIDV-854.jpg",MIDV-854  宮下玲奈  Rena Miyashita
-https://video.twimg.com/amplify_video/1845142571183411214/pl/OKR0_cdTIvCyA3cL.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img2.JAV HD ONEmost.com/file_image/FSDSS-820.jpg",FSDSS-820  八蜜凛  Rin Hachimitsu
-https://video.twimg.com/amplify_video/1845139988146528256/pl/pjix0eCYozEoxHTh.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SQTE-557-UNCENSORED-LEAK.jpg",SQTE-557  日向理名  Rina Hinata
-https://video.twimg.com/amplify_video/1844911808848502788/pl/mmV9mAhiXtZgUWEu.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.avfever.net/images/f/2f/royd-199/thumb_h.jpg",ROYD-199  西野絵美   Emi Nishino
-https://video.twimg.com/amplify_video/1844900701928849409/pl/BqDtkfV_nlxNCH9f.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SSIS-999.jpg",SSIS-999  三田真鈴  Marin Mita
-https://video.twimg.com/amplify_video/1738174372937129984/pl/GGDJT5dLtE8Bzx1j.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-001-UNCENSORED-LEAK.jpg",SONE-001  三田真鈴   Marin Mita
-https://video.twimg.com/amplify_video/1739981588837142528/pl/5fULbtkHqrcvHQQ8.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-023.jpg",SONE-023  三田真鈴  Marin Mita
-https://video.twimg.com/amplify_video/1750971869740867584/pl/WHkvjT22owMJQpU2.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-065-UNCENSORED-LEAK.jpg",SONE-065  三田真鈴  Marin Mita
-https://video.twimg.com/amplify_video/1761066901499990016/pl/vrCN3QXCYHtzacuU.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-111.jpg",SONE-111  三田真鈴  Marin Mita
-https://video.twimg.com/amplify_video/1804268742995521536/pl/5GpzqfjCTrON_EBs.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-182-UNCENSORED-LEAK.jpg",SONE-182  三田真鈴  Marin Mita
-https://video.twimg.com/amplify_video/1810408386367807488/pl/cv0aFPrTudrIFGy4.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/SONE-298.jpg",SONE-298  三田真鈴  Marin Mita
-https://video.twimg.com/amplify_video/1825934888140419074/pl/JRsWgUMnLHHImAiC.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://www.av-th.net/wp-content/uploads/2024/09/sone347pl.jpg",SONE-347  三田真鈴  Marin Mita
-https://video.twimg.com/amplify_video/1845275742814322690/pl/5UB4UvcT0_HYsBYb.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/LUXU-1117-UNCENSORED-LEAK.jpg",LUXU-1117  霧島レオナ  Reona Kirishima
-https://video.twimg.com/amplify_video/1850943231669792768/pl/6AETMyKV3TbzcRSA.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img2.JAV HD ONEmost.com/file_image/MIFD-543.jpg",MIFD-543   星月えむ   Hoshizuki Emi
-https://video.twimg.com/amplify_video/1853415132254343169/pl/Q5NDQFnO8L1oFeOX.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://cdn.avfever.net/images/1/61/midv-917/cover.jpg",MIDV-917   野宮あん   Nomiya An
-https://video.twimg.com/amplify_video/1853393054683807744/pl/-KsSJO6azO0o1qg9.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/HMN-625-UNCENSORED-LEAK.jpg",HMN-625   香水じゅん   Jun Kasui
-https://video.twimg.com/amplify_video/1847215345184182272/pl/MrGgvROmbhiIw_EZ.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_LCB58LKSm3JyO74C2wk6D0Q355ETkkhQA&s",IPZZ-214   長浜みつり   Nagahama Mitsuri
-https://video.twimg.com/amplify_video/1751310534883065856/pl/vKw-ExajmtdxwMcR.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://img3.JAV HD ONEmost.com/images/IPZZ-314-UNCENSORED-LEAK.jpg",IPZZ-314   長浜みつり   Nagahama Mitsuri
-https://video.twimg.com/amplify_video/1806459830582087680/pl/SvfsPBRP85Cq6yUi.m3u8
 #EXTINF:-1 group-title="JAV~VOD||SUB-INDONESIA" tvg-logo="https://www.mediafire.com/convkey/cfab/o82k2d8difj7utc5g.jpg",Ibu Mertua Pengganti – Rin Okae ALDN-164
 https://master.wishstream.xyz/xc/c_master.m3u8?data=eyJjdCI6IkFXSUFVeDhnMUVxQ3dsYjFYUmNGakNQd01zSzRsQ2t1MG5ORm02bHhZZGZEZjYzVHZSQVhwa3ZNQnNmMEM4XC9pcGV6Tkx6VFFzRXlrcVJ1Tjh4YTNlTU05WDd2SVRsdUpCRVdoU0VoYUx2dWN2bnI4a1ROa0pLR3hEaXdXMXJOZFR2Q0hjQXFaZ0h0NG5tVHN4UTl6YlZoWWZHcjFQaG5NXC9iNGRDZDgrUGhFPSIsIml2IjoiZTc5NmExZjg4ZDNlNjg4YmM5MDkyYmExODRjNzI5YTIiLCJzIjoiNGJiNzNmMjA1NDQyYTE4NCJ9
 #EXTINF:-1 group-title="JAV~VOD||SUB-INDONESIA" tvg-logo="https://www.mediafire.com/convkey/5915/jjpd6d8m0j0nd2i5g.jpg",AdikkuYgStress – Rika Tsubaki SDDE-641
@@ -3247,14 +2859,10 @@ https://arcjav10.arcjavs.workers.dev/1:/Project%20arcjav/May%202021/9.5%20Projec
 https://arcjav8.arcjavx01.workers.dev/1:/Project%20arcjav/May%202021/7.5%20Project/Faleno%20Star/FSDSS-215.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/06/208877702_1625409l-666x539.jpg",Mitsumi An ABW-101
 https://arcjav04.falenoz04.workers.dev/1:/June%202021/10.6%20Project/PRESTIGE/ABW-101.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/08/1stars386pl.jpg",MINAMO STARS-386 4K
-https://arcjav04.falenoz04.workers.dev/2:/Month/August/24.8%20P/process/STARS-386-4K%20arcjav.com.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/10/1msfh018pl.jpg",Maeda Momoko MSFH-018 LEAKED
 https://arcjav04.falenoz04.workers.dev/1:/2021/Oct%202021/20.10%20P/L/MSFH-018_UNCENSORED_LEAKED.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1fsdss232pl.jpg",Natsuki Rin
 https://arcjav7.arcjavproject.workers.dev/1:/Project%20arcjav/May%202021/20.5%20Project/FSDSS-232.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1fsdss218pl.jpg",Nikaidou Yume
-https://arcjav1.arc1314.workers.dev/1:/Project%20arcjav/May%202021/7.5%20Project/Faleno%20Star/FSDSS-218.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/06/ipx667pl.jpg",Ono KotomiIPX-667
 https://arcjav06.falenoz06.workers.dev/1:/June%202021/11.6%20Project/IDEAPOCKET/IPX-667.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/08/223942547_1633609l.jpg",Saitou Amiri ABW-125
@@ -3265,48 +2873,14 @@ https://arcjav05.falenoz05.workers.dev/2:/Month/July/2.7%20Project/PRESTIGE/ABW-
 https://arcjav10.arcjavs.workers.dev/1:/Project%20arcjav/May%202021/31.5%20Project/Selection/SKSK-051.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/09/231097068_1637552l.jpg",Yuzuki Yuka ABW-140
 https://arcjav07.falenoz07.workers.dev/1:/Sept%202021/3.9%20Project/ABW-140.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/08/223944474_1633611l.jpg",Yuzuki Yuka ABW-127
-https://arcjav01.falenoz01.workers.dev/2:/Month/August/10.8%20Project/SELECTION/ABW-127.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1msfh058pl.jpg",Yoshinaga Konomi MSFH-058
 https://arcjav11.arcjav1314.workers.dev/1:/Project%20arcjav/May%202021/11.5%20Project/SOD/MSFH-058.mp4
 #EXTINF:-1 group-title="A JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/04/199222274_1616670l.jpg",ABW-089
 https://arcjav1.arc1314.workers.dev/1:/Project%20arcjav/May%202021/6.5%20Project/Prestige/ABW-089.mp4
-#EXTINF:-1 group-title="A JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/10/bahp088sopl.jpg",Aimi Rika
-https://arcjav07.falenoz07.workers.dev/1:/2021/Oct%202021/26.10%20P/Selection/BAHP-088.mp4
-#EXTINF:-1 group-title="A JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/10/FSDSS-314.jpg",Amatsuka
-https://arcjav02.falenoz02.workers.dev/1:/2021/Oct%202021/16.10%20P/SELECTION/FSDSS-314.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/mkmp396sopl-666x536.jpg",Hoshi NakoMKMP-396
-https://arcjav10.arcjavs.workers.dev/1:/Project%20arcjav/May%202021/9.5%20Project/Selection/MKMP-396.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1fsdss215pl.jpg",Kawakita Meisa
-https://arcjav8.arcjavx01.workers.dev/1:/Project%20arcjav/May%202021/7.5%20Project/Faleno%20Star/FSDSS-215.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/06/208877702_1625409l-666x539.jpg",Mitsumi An ABW-101
-https://arcjav04.falenoz04.workers.dev/1:/June%202021/10.6%20Project/PRESTIGE/ABW-101.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/08/1stars386pl.jpg",MINAMO STARS-386
 https://arcjav01.falenoz01.workers.dev/2:/Month/July/6.7%20Project/SOD/STARS-386.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/08/1stars386pl.jpg",MINAMO STARS-386 4K
-https://arcjav04.falenoz04.workers.dev/2:/Month/August/24.8%20P/process/STARS-386-4K%20arcjav.com.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/10/1msfh018pl.jpg",Maeda Momoko MSFH-018 LEAKED
-https://arcjav04.falenoz04.workers.dev/1:/2021/Oct%202021/20.10%20P/L/MSFH-018_UNCENSORED_LEAKED.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1fsdss232pl.jpg",Natsuki Rin
-https://arcjav7.arcjavproject.workers.dev/1:/Project%20arcjav/May%202021/20.5%20Project/FSDSS-232.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1fsdss218pl.jpg",Nikaidou Yume
-https://arcjav1.arc1314.workers.dev/1:/Project%20arcjav/May%202021/7.5%20Project/Faleno%20Star/FSDSS-218.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/06/ipx667pl.jpg",Ono KotomiIPX-667
-https://arcjav06.falenoz06.workers.dev/1:/June%202021/11.6%20Project/IDEAPOCKET/IPX-667.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/08/223942547_1633609l.jpg",Saitou Amiri ABW-125
-https://arcjav03.falenoz03.workers.dev/2:/Month/August/6.8%20Project/2/ABW-125.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/07/215678781_1629138l.jpg",Saitou Amiri ABW-112
-https://arcjav05.falenoz05.workers.dev/2:/Month/July/2.7%20Project/PRESTIGE/ABW-112.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/205367243_1624334ll-300x202.jpg",Tsuji Sakura SKSK-051
-https://arcjav10.arcjavs.workers.dev/1:/Project%20arcjav/May%202021/31.5%20Project/Selection/SKSK-051.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/09/237717192_1640938l.jpg",Yuzuki Yuka ABW-150
 https://arcjav03.falenoz03.workers.dev/3:/arcjav/2021/Sept%202021/29.9%20Project/SELECTION/ABW-150.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/09/231097068_1637552l.jpg",Yuzuki Yuka ABW-140
-https://arcjav07.falenoz07.workers.dev/1:/Sept%202021/3.9%20Project/ABW-140.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/08/223944474_1633611l.jpg",Yuzuki Yuka ABW-127
-https://arcjav01.falenoz01.workers.dev/2:/Month/August/10.8%20Project/SELECTION/ABW-127.mp4
-#EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1msfh058pl.jpg",Yoshinaga Konomi MSFH-058
-https://arcjav11.arcjav1314.workers.dev/1:/Project%20arcjav/May%202021/11.5%20Project/SOD/MSFH-058.mp4
 #EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3938292 海量原始性爱中出，纱代，窈窕美妻子，敏感显露！
 https://surrit.com/000fbd01-56c0-4a5c-8358-1c1b3291fc0d/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",IPZZ-196 出道…卖…偶像强奸服从环● 桃乃木假名，最后一个被中年男子不断掠夺的偶像
@@ -3923,8 +3497,6 @@ https://surrit.com/0adcd087-0a34-4d10-8729-fc37198c6296/1280x720/video.m3u8
 https://surrit.com/0af08ace-40c6-4650-b98b-9489df5711cd/1280x720/video.m3u8
 #EXTINF:-1 group-title="Madonna麦当娜" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",JUQ-032 大型独家“第一”全面NTR作品-。兼职NTR 水畑麻美
 https://surrit.com/0af75b50-cab1-4ba5-a6d2-3fac8851c246/1280x720/video.m3u8
-#EXTINF:-1 group-title="麻豆传媒FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",SSN011 汁液摄影师ep2 害羞却能干 就爱操这种闷骚的美女
-https://surrit.com/0afd8639-4eec-4948-aa6d-d07797dde69d/1280x720/video.m3u8
 #EXTINF:-1 group-title="大长腿" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",EBOD-416 第一次中出性交 Yukina Saeki
 https://surrit.com/0b12fc8e-db2d-4213-9f9b-4842340ad596/842x480/video.m3u8
 #EXTINF:-1 group-title="出道作" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",CAWD-553 我想吃掉你的屁股 20岁的小南是一名兼职美发师，她的外貌就像电视、广告和电影中备受追捧的女孩
@@ -7799,8 +7371,6 @@ https://surrit.com/55f7976f-59f6-4d35-a91e-51cc1ed83448/1280x720/video.m3u8
 https://surrit.com/55fdc647-84d0-4518-8f0c-55e4bdd2678a/1280x720/video.m3u8
 #EXTINF:-1 group-title="企业" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",SDDE-642 洗脑记事本 内衣办公室编 通野未帆 新村晶 皆月光 山本莲加 森日向子
 https://surrit.com/562f8daf-265c-4893-8699-828c8f0707e5/1280x720/video.m3u8
-#EXTINF:-1 group-title="麻豆传媒FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",CUS-2052 大象传媒 换妻爱不爱 / 想肏我老婆屄 就内射你媳妇
-https://surrit.com/563f2076-8a81-4cad-9c2a-066ec8121b70/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4077629 红羽，男人心中的笑点地下偶像！ ！ 18岁美穴美臀♪修学旅行途中新鲜J○集体授精！ ！
 https://surrit.com/564239fc-21c4-4002-8802-ed61a317dca3/1280x720/video.m3u8
 #EXTINF:-1 group-title="不伦" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",MFCW-016 “我以前从未有过中出...”与一位享受第一次外遇的已婚妇女的不忠约会！在观景池舒缓心灵，在饭店吃鸡鸡♪长时间的SEX后潮水会爆炸！用最大的臀部肌肉磨练女牛仔姿势！ “拿出来到最后面去！ ” 在你丈夫面前获得处女内射！ ！被潮水和精液弄湿的三颗浓密的射精！ [绫/24岁/结婚第一年]
@@ -10483,8 +10053,6 @@ https://surrit.com/89dac3d1-72c5-453f-ac56-c60974e23515/1280x720/video.m3u8
 https://surrit.com/89dd39eb-0085-4f8b-bb98-269b14588df4/1280x720/video.m3u8
 #EXTINF:-1 group-title="泡泡浴" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",SSIS-577 Gcup 纯白美女巨乳爱穗铃的妄想风俗3制作御道风行禁特别
 https://surrit.com/89e4df21-10cf-450d-9e4f-8afd7ebe2123/1280x720/video.m3u8
-#EXTINF:-1 group-title="麻豆传媒FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",MAD047 雪色香居 雪山孤女澎湃淫心
-https://surrit.com/89e65197-bdc5-465f-87f4-da6c2d6a6187/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3964935 【好看】480作品分5部份！杨高、殷柔，秋天的预言！淘汰高价商家！ ！ ！
 https://surrit.com/89f1664d-7b2d-4ef0-89d2-0d9264bb6f63/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",IENF-296 水木爱梅与学生和孩子的新婚生活女教师ver.
