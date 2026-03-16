@@ -2713,12 +2713,15 @@ https://surrit.com/98f5a0ea-20cd-456f-bfbd-dc3b8cc9cc94/1280x720/video.m3u8
 https://surrit.com/e34379f5-5af4-481d-975c-b59af76adf80/1280x720/video.m3u8
 #EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.pornfhd.com/digital/video/hnd00653/hnd00653pl.jpg",HND-653  二宮ひかり  Hikari Ninomiya
 https://surrit.com/b074a295-6dfe-4fdc-8d76-dd342429be3e/playlist.m3u8
-#EXTINF:-1 group-title="JAV~VOD||SUB-INDONESIA" tvg-logo="https://www.mediafire.com/convkey/cfab/o82k2d8difj7utc5g.jpg",Ibu Mertua Pengganti – Rin Okae ALDN-164
-https://master.wishstream.xyz/xc/c_master.m3u8?data=eyJjdCI6IkFXSUFVeDhnMUVxQ3dsYjFYUmNGakNQd01zSzRsQ2t1MG5ORm02bHhZZGZEZjYzVHZSQVhwa3ZNQnNmMEM4XC9pcGV6Tkx6VFFzRXlrcVJ1Tjh4YTNlTU05WDd2SVRsdUpCRVdoU0VoYUx2dWN2bnI4a1ROa0pLR3hEaXdXMXJOZFR2Q0hjQXFaZ0h0NG5tVHN4UTl6YlZoWWZHcjFQaG5NXC9iNGRDZDgrUGhFPSIsIml2IjoiZTc5NmExZjg4ZDNlNjg4YmM5MDkyYmExODRjNzI5YTIiLCJzIjoiNGJiNzNmMjA1NDQyYTE4NCJ9
-#EXTINF:-1 group-title="JAV~VOD||SUB-INDONESIA" tvg-logo="https://www.mediafire.com/convkey/5915/jjpd6d8m0j0nd2i5g.jpg",AdikkuYgStress – Rika Tsubaki SDDE-641
-https://master.wishstream.xyz/xc/c_master.m3u8?data=eyJjdCI6ImR1XC94V0JWYXhTWHpCZEl0bHJZOGRrN1oyeVY4SlpKVnRrXC9FUm9tajVlem5KaURkUHlOUzZKMlBuQWFvYXhmOTd1MXZ1OFl0R3RvaU1Jbk05aSt3QVdVXC9UU25Zc3o3Zzg4THBxQVdGbktybDhzazI1czhmSXd6OGpHd0NZQ0JneW5XTUlLT3RkemN3ZGRidWJjT2duWXV2dVdrZTRcL1cyVG1GQ0xRdW1vS1k9IiwiaXYiOiI5OWE5Y2U1NDIxMTI3ZGI2NDIwOTljOTYwNzlmMzY4YyIsInMiOiJhMTQ0MGU4M2EzMzE3ZDYyIn0=
-#EXTINF:-1 group-title="JAV~VOD||SUB-INDONESIA" tvg-logo="https://www.mediafire.com/convkey/1825/65k7u1clopoi3c95g.jpg",KakakIparCantik - Non Kobana ROYD-130
-https://master.wishstream.xyz/xc/c_master.m3u8?data=eyJjdCI6Im10ZDFnbGNcL3c2QzdLTDFRS21Xand0TDF3SHlXXC9RK1lxaTJKcVpWcnR5elc3NUNHMk9scTZUc0ZGTlUxOFJETlNVRHRtNWVsV2QwTmdORld3R0t6NjBUdWI1WmgxXC9pVVwvSmFIbDlyZmRRT2lKMlZsVHVrRVBCVVA3Z2tJZVI3azdBTDl3Z29iN0V4MjBic1g2Y3l4cURQbTVuc2JBdGd3SnRQeHdtd1d4WHM9IiwiaXYiOiI4YmYxMzM4YzNjZDA5OWI4Njg3NzJlMDQ3MDA3NzBhNyIsInMiOiI4MWE5NjZhMmM4YzFlYmRkIn0=
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="VOD~AV~JAPONES" tvg-logo="https://www.mediafire.com/convkey/da89/y36cb8l1rkm21rq5g.jpg",Maki Sekiguchi Pacopacomama-060821-487
 https://surrit.com/c5e59126-bf63-4f74-9fd2-14dc85799dc2/playlist.m3u8
 #EXTINF:-1 group-title="VOD~AV~JAPONES" tvg-logo="https://www.mediafire.com/convkey/dc66/rry9bgl1yamq6hp5g.jpg",Kokoro Wato
@@ -2853,6 +2856,10 @@ https://surrit.com/6b8f3a50-845d-4231-961b-848b3e2eb393/playlist.m3u8
 https://surrit.com/78d65260-30a3-47ee-b532-007819c9c62c/playlist.m3u8
 #EXTINF:-1 group-title="A JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/10/FSDSS-314.jpg",Amatsuka
 https://arcjav02.falenoz02.workers.dev/1:/2021/Oct%202021/16.10%20P/SELECTION/FSDSS-314.mp4
+
+
+
+
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/mkmp396sopl-666x536.jpg",Hoshi NakoMKMP-396
 https://arcjav10.arcjavs.workers.dev/1:/Project%20arcjav/May%202021/9.5%20Project/Selection/MKMP-396.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/05/1fsdss215pl.jpg",Kawakita Meisa
@@ -2881,11 +2888,15 @@ https://arcjav1.arc1314.workers.dev/1:/Project%20arcjav/May%202021/6.5%20Project
 https://arcjav01.falenoz01.workers.dev/2:/Month/July/6.7%20Project/SOD/STARS-386.mp4
 #EXTINF:-1 group-title="💑 Idol JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/09/237717192_1640938l.jpg",Yuzuki Yuka ABW-150
 https://arcjav03.falenoz03.workers.dev/3:/arcjav/2021/Sept%202021/29.9%20Project/SELECTION/ABW-150.mp4
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3938292 海量原始性爱中出，纱代，窈窕美妻子，敏感显露！
+
+
+
+
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3938292 海量原始性爱中出，纱代，窈窕美妻子，敏感显露！
 https://surrit.com/000fbd01-56c0-4a5c-8358-1c1b3291fc0d/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",IPZZ-196 出道…卖…偶像强奸服从环● 桃乃木假名，最后一个被中年男子不断掠夺的偶像
 https://surrit.com/00142aab-b088-4b03-9d01-849f1cc29e9f/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4149590 我很高兴能手淫，而我的第一个经验就是我的父亲。一个单身、好奇、穿著制服的男人的原始性行为
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4149590 我很高兴能手淫，而我的第一个经验就是我的父亲。一个单身、好奇、穿著制服的男人的原始性行为
 https://surrit.com/0023d04e-c906-4498-913d-854d3d691684/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",080 19
 https://surrit.com/00243e5a-897a-4104-b49f-0a3604ae3839/1280x720/video.m3u8
@@ -2893,19 +2904,19 @@ https://surrit.com/00243e5a-897a-4104-b49f-0a3604ae3839/1280x720/video.m3u8
 https://surrit.com/0028d3eb-0750-4350-9b05-bbdc13e4ee58/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",PRED-532 加班、岚、后来中出，兴奋地在凯伦温柔的大胸前辈凯伦湿润的乳房上一次又一次地中出。柚叶夏莲
 https://surrit.com/0034a692-9549-492e-a25b-60aac0333b89/1280x720/video.m3u8
-#EXTINF:-1 group-title="制服" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",ORECO-574 鲁伊莎桑
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",ORECO-574 鲁伊莎桑
 https://surrit.com/003a4437-5444-4361-b59b-0065ea897b69/1280x720/video.m3u8
 #EXTINF:-1 group-title="Madonna麦当娜" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",JUL-977 母亲的朋友绫濑舞子
 https://surrit.com/00453594-1147-44a7-aeca-1e5f8d7c9189/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",WAAA-316 一个穿著制服的女孩，被一个不忠的老人囚禁在隔壁肮脏的房间里。她被舔和失禁，并不断颜射和中出。柏木小夏
 https://surrit.com/004985df-aad1-47fb-8085-784fdabca9f4/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3929038 *角色经验丰富！与尤卡·托克潘类似的剧团成员。持久的爱情，超纯洁*，真正的性爱和内在射精。
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3929038 *角色经验丰富！与尤卡·托克潘类似的剧团成员。持久的爱情，超纯洁*，真正的性爱和内在射精。
 https://surrit.com/00506b7d-bef3-4b33-af24-a5548bb63c29/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",ORECO-554 明里酱 & 日野酱 970 12
 https://surrit.com/0052a8b4-2eb7-4784-8009-355f79fd00f0/1280x720/video.m3u8
 #EXTINF:-1 group-title="Madonna麦当娜" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",ACHJ-007 Madonna x Slut Specialization 名字也是“Achijo”爆！ ！ MADONNA Dengeki 独家 Yu Shinoda“严重荡妇”无限射精高潮折磨男人的身体和大脑，大小塞子和阴道射精
 https://surrit.com/00583ce7-f5ec-485d-914c-a961f989dbfd/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4177707 【新年快乐】身高173/44的美女少妇，正在追男友的男友。
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4177707 【新年快乐】身高173/44的美女少妇，正在追男友的男友。
 https://surrit.com/005942c7-64ee-487e-886d-8e5ec5927a2e/1280x720/video.m3u8
 #EXTINF:-1 group-title="姐妹" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",CAWD-365 因再婚而与父亲同居半年的伊藤真树，用无保护的肥臀控制不住自己的角质屁股。
 https://surrit.com/007325ed-29f1-441c-9ab8-429c703b6a00/1280x720/video.m3u8
@@ -2927,13 +2938,13 @@ https://surrit.com/00966721-97e2-4795-ac84-1c2a468be365/1280x720/video.m3u8
 https://surrit.com/00b0bfcc-bf7b-49b1-a970-f3dd0af5aa0d/1280x720/video.m3u8
 #EXTINF:-1 group-title="姐姐" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",IPX-941 赤身裸体。 Pleasure Climax 4 Production SPECIAL Ruisa Miyakozuki
 https://surrit.com/00b79793-61ef-4794-9afc-8d459f13f75c/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3913404 【加长版】20岁的农村姑娘，胸怀情深。止不住的哭泣，快感的快感变了，射精到了胃顶。
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3913404 【加长版】20岁的农村姑娘，胸怀情深。止不住的哭泣，快感的快感变了，射精到了胃顶。
 https://surrit.com/00c02489-ce49-4e82-a52a-5daa26de9782/1280x720/video.m3u8
 #EXTINF:-1 group-title="短裙" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",SSNI-424 女朋友的姐姐葵的全力走光诱惑我
 https://surrit.com/00cedb9e-116c-42f1-a9ea-f4653a1955fb/720x1280/video.m3u8
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4196196 沉沉的性爱，因为你有十九倍的才华，你被它吸引。一个纯洁无邪的前男友。当我第一次的时候，我感到紧张，但我开始在体内射精。
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4196196 沉沉的性爱，因为你有十九倍的才华，你被它吸引。一个纯洁无邪的前男友。当我第一次的时候，我感到紧张，但我开始在体内射精。
 https://surrit.com/00d2c8d9-0bf8-4587-ab3a-8b22fee05c80/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3913455 【体育馆仓库】 大型汉乐公司工程。节目中罕见的镜头。 *多馀1小段4K影片片无法无天的制作。
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-3913455 【体育馆仓库】 大型汉乐公司工程。节目中罕见的镜头。 *多馀1小段4K影片片无法无天的制作。
 https://surrit.com/00df29a0-1f61-4888-938b-fc4ee7af257f/1280x720/video.m3u8
 #EXTINF:-1 group-title="眼镜娘" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",GANA-2822 严重调情，第一枪。 1894 在涩谷的非正式酒会回家的路上接了一位穿著西装和眼镜的女士！大量喷出，好像您喝的所有酒都随著从沉重的滑雪开始的SEX而流出！就业庆祝颜射脸上似乎很高兴被操！ ！
 https://surrit.com/00e70f5e-7f4a-403a-8ba5-d286629a483d/1280x720/video.m3u8
@@ -2941,7 +2952,7 @@ https://surrit.com/00e70f5e-7f4a-403a-8ba5-d286629a483d/1280x720/video.m3u8
 https://surrit.com/00e8766e-b9c5-46a6-999e-a9811520e41f/1280x720/video.m3u8
 #EXTINF:-1 group-title="出道作" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",CAWD-556 传闻与弘子长得很像的美丽晨剧女孩 现实生活中的大学生 AV 出道 七尾喜香
 https://surrit.com/00f2c61d-52db-4a7f-9f32-79417c841620/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4067240 村里土生土长的一种华语方言。用无原则的性格，管好酒铺，开始吧！ ！
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4067240 村里土生土长的一种华语方言。用无原则的性格，管好酒铺，开始吧！ ！
 https://surrit.com/00f5fbb9-9348-4812-9845-c48f06ef7167/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",DASS-263 一次奇迹般的重逢。你已经长大了。我在不知情的情况下被疏远的儿子强暴了。黑川堇
 https://surrit.com/00facf3b-9ce3-4c46-894e-dba263f41099/1280x720/video.m3u8
@@ -2961,7 +2972,7 @@ https://surrit.com/0129d72b-0d7d-4311-ad25-869a300a9ad1/1280x720/video.m3u8
 https://surrit.com/012d8471-ccd4-4c4b-bfa8-379dec644192/1280x720/video.m3u8
 #EXTINF:-1 group-title="麻豆传媒FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",MSD076 性感碰瓷女 拜金女赤裸敲诈
 https://surrit.com/013f2429-53b9-44f4-a6e3-3e48bef35966/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码FC2" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4200063 我不知道该怎么办，但我是金潮。原始中出和口内射精。
+#EXTINF:-1 group-title="无码流出" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",FC2-PPV-4200063 我不知道该怎么办，但我是金潮。原始中出和口内射精。
 https://surrit.com/0153c84f-e611-4684-b2ff-16403b4571a1/842x480/video.m3u8
 #EXTINF:-1 group-title="制服" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",BLK-615 放学后手淫俱乐部巨乳辣妹舔舔射精！
 https://surrit.com/01576735-e409-467a-a2f5-26dff5eb2ceb/1280x720/video.m3u8
